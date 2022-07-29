@@ -16,6 +16,24 @@ Using directly PIL:
   Download the package.
   
   When download complete type this command (With superuser): `# pil install /path/to/the/pack`
+#### Error: Why ProgramPIL dont detect minetest on the sources list?
+
+Well, You need to upgrade the sources list with the program psl, or including manually the url of this pack
+* Putting manually the url of minetest pack
+
+Use SuperUser (root) to do this.
+
+Type: `# nano /pil/urls.db`
+
+and put this text to the urls database:
+
+` jj
+ff
+eref
+dwdw
+`
+
+
   
   
 
