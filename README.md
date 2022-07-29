@@ -27,10 +27,11 @@ Type: `# nano /pil/urls.db`
 
 and put this text to the urls database:
 
-### ee
-   jjj
-   nnm
-   jjjjk
+```# Minetest URL
+minetest:EEE
+```
+
+When finished, save and close, try to install again
 
 
   
