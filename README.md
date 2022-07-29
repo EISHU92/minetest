@@ -27,11 +27,9 @@ Type: `# nano /pil/urls.db`
 
 and put this text to the urls database:
 
-` jj
-ff
-eref
-dwdw
-`
+   jjj
+   nnm
+   jjjjk
 
 
   
