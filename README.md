@@ -27,7 +27,8 @@ Type: `# nano /pil/urls.db`
 
 and put this text to the urls database:
 
-```# Minetest URL
+```
+# Minetest URL
 minetest:EEE
 ```
 
