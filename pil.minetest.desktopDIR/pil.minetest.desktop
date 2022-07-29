@@ -1,1 +1,11 @@
-··
+[Desktop Entry]
+Exec=pil load
+Icon=minetest
+Name=Minetest
+Name[en]=Minetest
+Name[es]=Minetest
+Comment[es]=Juego con mundos infinitos SandBox Multijugador.
+Comment[en]=Multiplayer infinite-world block sandbox.
+Type=Application
+Categories=Game;
+Terminal=true
